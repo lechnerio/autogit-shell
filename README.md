@@ -8,7 +8,7 @@ Words in square brackets need to be replaced
 
 these are: 
 
-| Command | Description |
+| to replace | description |
 | --- | --- |
 | project-path | location of your project eg. `/var/www/project`  |
 | user | github user |
